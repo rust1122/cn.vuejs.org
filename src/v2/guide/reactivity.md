@@ -176,4 +176,6 @@ Vue.component('example', {
       console.log(this.$el.textContent) // => '已更新'
     }
   }
+  
+  //
 ```
